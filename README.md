@@ -2,8 +2,8 @@
 ---
 # Controller-Based-on-Dynamic-Gesture-Recognitions-using-WebCAM-with-Mediapipe
 
-youtube
-- https://youtu.be/0SHuRy8H7Jk
+# Youtube
+* https://youtu.be/0SHuRy8H7Jk
 
 Estimate hand pose using MediaPipe(Python version).<br>
 This is a program that recognizes hand signs and hand gestures with a simple MLP using the detected key points for control windows.
