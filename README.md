@@ -2,7 +2,10 @@
 ---
 # Controller-Based-on-Dynamic-Gesture-Recognitions-using-WebCAM-with-Mediapipe
 
-Estimate hand pose using MediaPipe(Python version).<br> 
+youtube
+- https://youtu.be/0SHuRy8H7Jk
+
+Estimate hand pose using MediaPipe(Python version).<br>
 This is a program that recognizes hand signs and hand gestures with a simple MLP using the detected key points for control windows.
 
 This repository contains the following contents.
@@ -114,5 +117,5 @@ The key point coordinates
 * [MediaPipe](https://mediapipe.dev/)
 * [Kazuhito00/hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe)
 
-# License 
+# License
 Controller-Based-on-Dynamic-Gesture-Recognitions-using-WebCAM-with-Mediapipe is under [Apache v2 license](LICENSE).
